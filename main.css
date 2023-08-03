@@ -860,7 +860,7 @@ a.menu__link:hover::before {
   max-width: 219px;
 }
 
-.contacts-callback-checkbox p {
+.contacts-callback-checkbox  {
   color: var(--white);
   font-size: 10px;
   font-weight: 400;
