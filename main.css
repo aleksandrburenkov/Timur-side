@@ -946,7 +946,7 @@ a.menu__link:hover::before {
   width: 154px;
   height: 83px;
   transform: rotate(-8.978deg);
-  background: url(../assets/img/fifiti.png);
+  background: url(./assets/img/fifiti.png);
   background-repeat: no-repeat;
   z-index: 15;
   animation: pulse 2s infinite;
