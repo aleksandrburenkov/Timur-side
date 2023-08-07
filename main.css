@@ -1651,7 +1651,7 @@ a.menu__link:hover::before {
   content: '';
   bottom: 0;
   left: 0;
-  background: url(../assets/img/card/Vector-36.svg);
+  background: url(./assets/img/card/Vector-36.svg);
   background-repeat: no-repeat;
   width: 82px;
   height: 70px;
@@ -1663,7 +1663,7 @@ a.menu__link:hover::before {
   content: '';
   bottom: 0;
   right: 8px;
-  background: url(../assets/img/card/Group-3.svg);
+  background: url(./assets/img/card/Group-3.svg);
   background-repeat: no-repeat;
 
   width: 100px;
