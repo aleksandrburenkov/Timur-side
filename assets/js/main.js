@@ -125,3 +125,15 @@ let tab = function () {
 };
 tab();
 //=================================TAB SERVISES============================================
+
+// ======================PRELOADER========================================================
+
+let mask = document.querySelector('.mask');
+
+window.addEventListener('load', () => {
+    mask.classList.add('hide');
+
+    setInterval(() => {
+        mask.remove();
+    }, 600);
+});
